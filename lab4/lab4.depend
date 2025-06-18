@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1739888962 source:c:\users\teacher\desktop\lab 7 cr-231\lab4\main.c
+	<stdio.h>
+	"structs.h"
+	"funcs.h"
+
+1739889384 c:\users\teacher\desktop\lab 7 cr-231\lab4\structs.h
+
+1739891505 c:\users\teacher\desktop\lab 7 cr-231\lab4\funcs.h
+	"structs.h"
+
